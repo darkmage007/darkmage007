@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkmage007
-- 👀 I’m interested in programating!
+- 👀 I’m interested in programing!
 - 🌱 I’m currently learning Python, C++
 - 😄 Pronouns: he/him
 
